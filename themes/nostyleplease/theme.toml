@@ -19,4 +19,3 @@ min_version = "0.41.0"
   name = "riggraz"
   homepage = "https://riggraz.dev/"
   repo = "https://github.com/riggraz/no-style-please"
-  theme = 'nostyleplease'draft: true--buildDrafts
